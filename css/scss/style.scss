@@ -1,0 +1,19 @@
+$primary: #345654;
+$blue: blue;
+ol {
+    li {
+        a {
+            display: inline;
+        }
+    }
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+div {
+    h3 {
+        color: $blue;
+    }
+}

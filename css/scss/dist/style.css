@@ -1,0 +1,11 @@
+ol li a {
+  display: inline;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+div h3 {
+  color: blue;
+}
