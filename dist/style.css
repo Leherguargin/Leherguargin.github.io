@@ -1,0 +1,124 @@
+button {
+  border-radius: 3px;
+  border-style: solid;
+  padding: 10px;
+  margin: 5px;
+}
+
+nav .logo {
+  font-weight: bold;
+  font-size: 150%;
+}
+nav div {
+  display: inline;
+  float: right;
+}
+nav div span {
+  margin: 0 20px;
+}
+nav span:hover {
+  color: red;
+}
+nav button {
+  background-color: #1D96FA;
+  color: white;
+  border-color: #1D96FA;
+  margin: 5px 5px 5px 50px;
+}
+
+.title {
+  max-width: 420px;
+  margin-top: 20px;
+  margin: auto;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+}
+
+.orange {
+  color: #F34423;
+  background-color: #FAC4AE;
+  border-color: #FAC4AE;
+}
+
+.green {
+  color: #2ee093;
+  background-color: #B7EDDD;
+  border-color: #B7EDDD;
+}
+
+.center {
+  text-align: center;
+}
+
+.first-articles {
+  margin-top: 30px;
+}
+
+article {
+  display: inline-block;
+  text-align: left;
+}
+article img {
+  width: 60px;
+  height: 60px;
+}
+article p {
+  max-width: 200px;
+}
+
+.first-card {
+  text-align: left;
+  justify-content: center;
+  margin: 20px;
+  display: flex;
+}
+.first-card div {
+  width: 600px;
+  margin: 10px;
+}
+.first-card img {
+  width: 300px;
+  height: 300px;
+}
+
+.blue {
+  background-color: #1D96FA;
+  border-color: #1D96FA;
+  color: white;
+}
+
+.secound-articles {
+  display: flex;
+  justify-content: center;
+}
+.secound-articles p {
+  max-width: 200px;
+}
+.secound-articles div {
+  margin: 20px;
+}
+
+.padding {
+  padding: 90px;
+}
+
+.contact-us-button {
+  color: #F34423;
+  border-radius: 30px;
+  border-color: #F34423;
+}
+
+ul {
+  list-style: none;
+  text-align: left;
+}
+ul li {
+  margin: 5px;
+}
+
+.black-button {
+  background-color: black;
+  color: white;
+  border-color: black;
+}
